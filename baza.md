@@ -52,8 +52,8 @@ _Програвай разом з нами_
   </tr>
 </table>
 Якщо ви ще досі не переконані можете переглянути відгуки про нас :
-1. [Відгук 1](https://youtu.be/NEwxfbF58m8)
-2. [Відгук 2](https://youtu.be/sltKo72lUr4)
+[Відгук 1] (https://youtu.be/NEwxfbF58m8)
+[Відгук 2] (https://youtu.be/sltKo72lUr4)
 ---
 Якщо ти не хочеш бути _♂️jabroni♂️_ і все своє життя не збирати на _♂️gym♂️_, то заповнюй анкету нижче ⬇️
 <button onclick="window.location.href = 'https://forms.gle/TW6RYHCUxXmCBpge8';">СТАТИ МІЛЬОНЕРОМ</button>
